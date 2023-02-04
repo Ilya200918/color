@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vh;
+    height: 100vh;
+    background-color: cornflowerblue;
+}
+
+button {
+    height: 40px;
+    width: 550px;
+    font-size: 30px;
+    border-radius: 9px;
+    color: aliceblue;
+    background-color: aqua;
+}
